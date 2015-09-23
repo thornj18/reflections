@@ -1,0 +1,14 @@
+Having access to previous versions of my code will help me restore to different instances of time too either rectify some bugs or simply reverting older algorithims previously used the software.
+
+
+I think manually choosing when to commit changes to your code could be problematic because one may go on coding for a long while without remembering to commit the new changes made to the file, hence google docs has better way of doing this. But also the combination of the 2 techniques could be a powerful one.
+
+
+Git saves multiple files in a repository at once because unlike ordinary text code could be interdependent of multile files inside the same repository. Hence one change in one file may affect other files if not synced simultaneously
+
+
+Git log is very useful in tracking all the changes done to your code prior to the most recent commit therefore making it easier to trace where you have gone wrong by looking up the differences between commits using the command "git diff <id1> <id2>".
+
+
+Version control gives me the confidence of adding features to an already developed project because of the ability to go back in time with the most recent working version of the app incase there bugs
+git checkout <commit_id>.
