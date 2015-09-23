@@ -1,0 +1,4 @@
+Initializing a repository in an already exisiting directory helps in making a ".git" directory which stores and tracks all your commits in the folder
+
+
+The staging area is different from the working directory and the repository because its the intermediate stage whereby a file is yet to be commited but is being tracked. It offers great value while coding because it helps in deciding the particular files to be tracked at that moment
