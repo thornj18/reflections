@@ -2,3 +2,27 @@ Initializing a repository in an already exisiting directory helps in making a ".
 
 
 The staging area is different from the working directory and the repository because its the intermediate stage whereby a file is yet to be commited but is being tracked. It offers great value while coding because it helps in deciding the particular files to be tracked at that moment
+
+We could use the staging area to commit one logical change per change by adding only the files with the changes and ingnoring the ones you don't want in the recent commit
+
+
+Branches in git come in handy when you have new features youre trying out for the already working version of an application and dont want to affect the already working version of the app incase anything goes wrong. This is very helpful
+
+
+The diagrams which represent the master and its branches are useful in visualizing where each author made changes to the app and the last known version of code that was available when he made those changes in the branches.. This helps in merging the files back together once the prototype has been tasted and is working
+
+
+Merging two branches results in unifying the master branch and another branch <name> inorder to implement the feature developed away from the main branch <master>. We represent the data in such a tree like manner to show the relationships between the each commit and its parent
+
+
+Automatic merging pros:
+	It saves time when merging files because you don't have to think about every single detail of the merge
+
+Automatic merging cons:
+	It may not be efficient enough when to authors of the program modify the same oart of the program
+
+Manual merging pros:
+	It is very useful when you want look into detail and perform the required operation
+
+Manual merging cons:
+	Takes a lot of time 	

@@ -12,3 +12,6 @@ Git log is very useful in tracking all the changes done to your code prior to th
 
 Version control gives me the confidence of adding features to an already developed project because of the ability to go back in time with the most recent working version of the app incase there bugs
 git checkout <commit_id>.
+
+
+I will be using git for my andorid code because of its flexibility, I can't wait to start!
